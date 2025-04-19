@@ -1,0 +1,5 @@
+filename,label,label_encoded
+test.zip,dog,2
+test,cat,1
+train,truck,3
+train.zip,car,0

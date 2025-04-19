@@ -1,0 +1,6 @@
+ Multi-Class Image Classification Project (PyTorch)
+
+This project implements a full pipeline for real-world image classification using PyTorch. The model is trained on labeled image data stored with filename references in a CSV file. The system is designed to handle multiple classes (0–9 or more) using an architecture inspired by real-world inference pipelines.
+
+
+
